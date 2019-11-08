@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "voice-to-invoice",
+  "private_key_id": "9321b25a48bd20ffee82a57a2ba9034e314f94d7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCzF8y1O82XQdIq\nwpzOTuCug4/hhYZiK6S1DRcBUZ2z9nxYfiln/RZG538gfTmzpvqFornuKgRICbu9\nDKJRlw7rKizsE+GihObu/FfN65qVw44kDueAdQw1QfLeKX9VHED3lK8aHUq4imvS\nsplMfc9hDb1hs/93oRlWtDB1cY9Cck40WfN8BgtZfUeu2mvNUDMgioxQzGBrqFI8\nsj05H2Jdzdb6UEH+6u0iadZ9xH/Y212K43aCsHRp6Im1pWKGl5uWji4oSbwX6usY\nwtfPjU2kNDiK2J8deyAuGZq7tsed563D9TThoOXkBSQp9LSXz4eHHeFtzShUMaVv\nMc0QEcsXAgMBAAECggEAJlevFRITpxGJfGwkBCtxAQvbrw3WQohTgAuoZDjkCZZ4\n8r04AjJ2JYIEfqEwzFywgBHhurK2LfIfho8A5XTw1bo22eg7w36urnXKGqUZeHzg\nnqmuOJtWnMRcyeGaiE8/PYJQpsekqrO/9+ES3wSEdKPratKNnEAaW6zCPzKr2C6i\nndi8f86kELcaS65iWzhrC/lttU9k0IYwsr6uht7W67Y1MlW+K1/CP+snJD2Opjzs\ngu5ciFjjHB+O1+hiJX4jk0e7xoKLvLgQnEG/6Z2NmMzqUMnlW7flT4segs8PuJt4\nr0Lm+Bfl9TLmJ5IA4Jl0qodVAcLvIiV1ysQFov0JkQKBgQDsIdgS9q2f8tCPwRCC\nrR5QT71WesmypLuh3FrbfwLgDMUk2VfvcUnxfeeHY9HSjDjsCnVMg8ErFj4V7ryC\n52LS1eEr72PVzWvd4pW4A+3lWkCTWZuxaD+gqfKR13hHfMjlnuCcgJuU4Hr1tJDh\n25AGhh0OpArSeXhkOJRqj3IK3wKBgQDCKVy9051/pZmGMjI8lkhb/mypcWwUaI9J\ngqwNpHvmPG7DA5id2XnV3MnZB1yJzDasQRW9IaEwKpVcfMsF8HcyJe6CIr4MG9QR\nmlYi9qL6xigP3B6oKfFr7lUVvNLl8bvQXDBXlweBRVptUsaTr9EiF5Kcpw6/qFG7\nYT0+LQL+yQKBgCMRf6qJUg3QHONMk+wkU70vqnnecHgEeQ030ZKJkV6+5sRrNuEL\nnSStQyZbT70KMCX2A6eiZZzFh+Dv/LUgMhAHzZId0mDdSijAzuVuR/Vo6vA3PaUi\nS1jMBIdeTbGoOZnId6kmfHSmxfwZne69Ee22Gziiai0J9zRDJt+QgCpXAoGABYBo\niVRytQg7Nms7sy3K9Rhbed2l41onHT0fpO9RN2/k74+thmOAKUgtTAICZEEuF2ls\ntUQ7rgK24r0Cf7OVnQ0oGfXkDrHHK4yE/k6gxZxRzEk/cSJnHdjN/mSwUSWtXbUP\nBZxY8RfG/SwIRm0H7wBd/iRZraKWVknmE1nxKMkCgYAkxuJBGWmkjgAxBtwVnvFc\ntVHp/Pp5mxeB3eLLVC0iFo+UZ9TRtiM/k/bZNOw6185u/cAX1jxmkoy7iQicd6fr\nzKqbX7kq7NGgkM2oidCcl8+MPPEQx+O94ssC1zrvxDFkBkivM/ePmJNefIquFeBn\nY/I59tcXmrFNAjDSthmjjg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "tajimalabmeifurukawa@voice-to-invoice.iam.gserviceaccount.com",
+  "client_id": "115585050151150588860",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tajimalabmeifurukawa%40voice-to-invoice.iam.gserviceaccount.com"
+}
